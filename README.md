@@ -1,6 +1,6 @@
 ### Hi all 👋
 
-Few years I devoted to development of RPA projects :bulb: for audit and tax professionals. Now I'm researching decentralized finance space :globe_with_meridians: (simultaneously building tools for my team and developing smart contracts). 
+Few years I devoted to development of RPA projects :bulb: for audit and tax professionals. Now I'm researching decentralized finance space :satellite: (simultaneously building tools for my team and developing smart contracts). 
 
 - :office: I’m running a team of analysts in decentralized finance
 - 🌱 I’m currently learning smart contract development in Solidity (Ethereum blockchain)
