@@ -5,4 +5,4 @@ Few years I devoted to development of RPA projects :bulb: for audit and tax prof
 - :office: I’m running a team of analysts in decentralized finance
 - 🌱 I’m currently learning smart contract development in Solidity
 - 👯 I’m looking to collaborate on fintech projects
-- 💬 Ask me about RPA, intelligent automation, blockchain and its application in finance (smart contracts)
+- 💬 Ask me about RPA, intelligent automation, blockchain and its application in finance
